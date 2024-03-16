@@ -1,0 +1,47 @@
+{
+  "status_code": "200",
+  "data": [
+      {
+          "id": "1",
+           "name": "Shree Ganesh Band",
+           "mainNumber": "9028175906",
+          "secondNumber": "9561505801",
+           "registered": true,
+            "city" : "Raver"
+      },
+	  {
+          "id": "2",
+           "name": "Radhe Krishna",
+           "mainNumber": "9028175906",
+          "secondNumber": "9561505801",
+           "registered": true,
+ "city" : "Raver"
+      },
+	  {
+          "id": "1",
+           "name": "Shree krishna",
+           "mainNumber": "9028175906",
+          "secondNumber": "9561505801",
+           "registered": true,
+ "city" : "Raver"
+      },
+	  {
+          "id": "1",
+           "name": "Swami Krishna Amalner",
+           "mainNumber": "9028175906",
+          "secondNumber": "9561505801",
+           "registered": true,
+ "city" : "Raver"
+      },
+	  {
+          "id": "1",
+           "name": "Swar Samrat",
+           "mainNumber": "9028175906",
+          "secondNumber": "9561505801",
+           "registered": true,
+ "city" : "Raver"
+      }
+  ],
+  "message": "Data Available",
+  "status": "Success"
+}
